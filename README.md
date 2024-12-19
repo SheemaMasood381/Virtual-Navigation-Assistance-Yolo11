@@ -90,6 +90,11 @@ Place the `yolo11n.pt` file in the root directory of your project.
 
 4. The processed video with annotations will be saved as `processed_video.mp4`.
 
+<div align="center">
+  <img src="4.png" alt="Output Screenshot 2" width="300"/>
+</div>
+
+
 --------
 
 ### **Project Workflow**
