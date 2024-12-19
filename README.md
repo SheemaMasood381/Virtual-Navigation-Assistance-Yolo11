@@ -28,7 +28,10 @@ This project integrates **YOLOv11** for real-time object detection and **MiDaS**
 5. **Output Video**:
    - Annotated video with bounding boxes, depth values, and walking area overlays.
    - Audio instructions saved as MP3 files for playback.
-
+   
+<div align="center">
+  <img src="3.png" alt="Output Screenshot 1" width="300"/>
+</div>
 -------
 
 ## **Planned Enhancements**
