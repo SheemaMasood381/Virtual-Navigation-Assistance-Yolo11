@@ -5,7 +5,7 @@ This project integrates **YOLOv11** for real-time object detection and **MiDaS**
 -----
 <div align="center">
   <img src="1.png" alt="Virtual Navigation Assistant 1" width="300"/>
-  <img src=".png" alt="Virtual Navigation Assistant 2" width="300"/>
+  <img src="2.png" alt="Virtual Navigation Assistant 2" width="300"/>
 </div>
 
 ## **Features**
