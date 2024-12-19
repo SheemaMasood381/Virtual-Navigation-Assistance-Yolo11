@@ -3,8 +3,8 @@
 This project integrates **YOLOv11** for real-time object detection and **MiDaS** for depth estimation to create an intelligent pedestrian assistance system. The system identifies objects, calculates their depth, and provides real-time audio instructions to guide users safely in their walking environment.
 
 -----
-<div align="right">
-  <img src="1.png" alt="Virtual Naviation Assistant" width="300"/>
+<div align="center">
+  <img src="1.png" alt="Virtual Naviation Assistant" width="500"/>
 </div>
 
 ## **Features**
