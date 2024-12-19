@@ -2,7 +2,7 @@
 
 This project integrates **YOLOv11** for real-time object detection and **MiDaS** for depth estimation to create an intelligent pedestrian assistance system. The system identifies objects, calculates their depth, and provides real-time audio instructions to guide users safely in their walking environment.
 
----
+-----
 
 ## **Features**
 
@@ -25,7 +25,7 @@ This project integrates **YOLOv11** for real-time object detection and **MiDaS**
    - Annotated video with bounding boxes, depth values, and walking area overlays.
    - Audio instructions saved as MP3 files for playback.
 
----
+-------
 
 ## **Planned Enhancements**
 
@@ -38,7 +38,7 @@ This project integrates **YOLOv11** for real-time object detection and **MiDaS**
 - **Heygen Integration**:
   - Exploring enhanced interactivity features using Heygen.
 
----
+-------
 
 ## **Setup Instructions**
 
@@ -83,7 +83,7 @@ Place the `yolo11n.pt` file in the root directory of your project.
 
 4. The processed video with annotations will be saved as `processed_video.mp4`.
 
----
+--------
 
 ### **Project Workflow**
 
@@ -100,7 +100,7 @@ Place the `yolo11n.pt` file in the root directory of your project.
 #### **Audio Instructions**
 - Provides actionable instructions such as "Move left" or "Stop."
 
----
+-------
 
 ### **Acknowledgments**
 
@@ -108,7 +108,7 @@ Place the `yolo11n.pt` file in the root directory of your project.
 - **MiDaS**: For accurate depth estimation.
 - **gTTS**: For generating real-time audio instructions.
 
----
+-------
 
 ### **Contributing**
 
