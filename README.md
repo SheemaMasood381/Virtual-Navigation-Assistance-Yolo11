@@ -91,7 +91,7 @@ Place the `yolo11n.pt` file in the root directory of your project.
 5. the output video appears as follows
 
 <div align="center">
-  <img src="4.png" alt="Output Screenshot 2" width="300"/>
+  <img src="4.png" alt="Output Screenshot 2" width="800"/>
 </div>
 
 -------------
