@@ -69,15 +69,13 @@ This project integrates **YOLOv11** for real-time object detection and **MiDaS**
 2. Install Dependencies
 
 To set up the project environment, install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
 
-```bash
-pip install -r requirements.txt
+----------
 
 ### **Download the YOLOv11 Model Weights**
-
 Place the `yolo11n.pt` file in the root directory of your project.
-
----
 
 ### **Usage**
 
@@ -90,12 +88,13 @@ Place the `yolo11n.pt` file in the root directory of your project.
 
 4. The processed video with annotations will be saved as `processed_video.mp4`.
 
+5. the output video appears as follows
+
 <div align="center">
   <img src="4.png" alt="Output Screenshot 2" width="300"/>
 </div>
 
-
---------
+-------------
 
 ### **Project Workflow**
 
@@ -112,23 +111,21 @@ Place the `yolo11n.pt` file in the root directory of your project.
 #### **Audio Instructions**
 - Provides actionable instructions such as "Move left" or "Stop."
 
--------
+-------------
 
 ### **Acknowledgments**
-
 - **YOLOv11**: For robust object detection.
 - **MiDaS**: For accurate depth estimation.
 - **gTTS**: For generating real-time audio instructions.
-
--------
 
 ### **Contributing**
 
 Contributions are welcome! Feel free to fork this repository, create a feature branch, and submit a pull request.
 
----
+------------
 
 ### **License**
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+-------------
